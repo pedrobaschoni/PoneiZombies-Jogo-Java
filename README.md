@@ -39,6 +39,11 @@ O código-fonte do projeto está organizado em pacotes para uma melhor modularid
 
 ![Captura de tela 2023-12-04 122642](https://github.com/pedrobaschoni/PoneiZombies-Jogo-Java/assets/124200114/6a36dfe6-45a9-4f5a-8910-d47f95ee972d)
 
+![Captura de tela 2023-12-04 122719](https://github.com/pedrobaschoni/PoneiZombies-Jogo-Java/assets/124200114/c1e9e744-9975-4839-98c0-4ce228c7c78e)
+
+![Captura de tela 2023-12-04 122757](https://github.com/pedrobaschoni/PoneiZombies-Jogo-Java/assets/124200114/55f68382-5976-484c-bd15-6b6efad3a47c)
+
+![Captura de tela 2023-12-04 122809](https://github.com/pedrobaschoni/PoneiZombies-Jogo-Java/assets/124200114/9f18975a-2cbe-4625-a530-28dfea699624)
 
 ## Contribuição
 
