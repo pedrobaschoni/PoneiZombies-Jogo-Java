@@ -35,6 +35,11 @@ O código-fonte do projeto está organizado em pacotes para uma melhor modularid
 
 - **`controller`:** Responsável por controlar as ações do jogo, interagindo com a lógica de negócios e a interface gráfica.
 
+- ## Imagens do Projeto
+
+![Captura de tela 2023-12-04 122642](https://github.com/pedrobaschoni/PoneiZombies-Jogo-Java/assets/124200114/6a36dfe6-45a9-4f5a-8910-d47f95ee972d)
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs ou novos recursos.
